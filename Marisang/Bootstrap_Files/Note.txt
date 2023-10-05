@@ -1,0 +1,7 @@
+<!--Bootstrap Link <link rel="stylesheet" href="Bootstrap_Files/libs/bootstrap/css/bootstrap.min.css"/> -->
+
+
+<!--For modal
+<script src="Bootstrap_Files/libs/bootstrap/js/jquery.min.js"></script>
+<script src="Bootstrap_Files/libs/bootstrap/js/bootstrap.min.js"></script>
+//End-->
